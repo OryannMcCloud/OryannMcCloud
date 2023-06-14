@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Flutter project<br>🌱 I’m currently learning Dart<br>💬 Ask me about Flutter widgets struggles <br>⚡ Fun fact : I like bread
+🔭 I’m currently working on a Flutter project<br>🌱 I’m currently learning Dart<br>💬 Ask me about app design<br>⚡ Fun fact : I like bread
 
 
 # 💻 Tech Stack:
